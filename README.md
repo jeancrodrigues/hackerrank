@@ -1,3 +1,3 @@
-# Racker Rank Resolved Exercises
+# Hacker Rank Resolved Exercises
 
-repository for resolved rackerrank exercises
+repository for resolved hackerrank exercises
